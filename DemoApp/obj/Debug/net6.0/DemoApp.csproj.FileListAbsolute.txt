@@ -1,0 +1,15 @@
+/Users/greenboi/ComputerScience/CSharp/DemoApp/bin/Debug/net6.0/DemoApp
+/Users/greenboi/ComputerScience/CSharp/DemoApp/bin/Debug/net6.0/DemoApp.deps.json
+/Users/greenboi/ComputerScience/CSharp/DemoApp/bin/Debug/net6.0/DemoApp.runtimeconfig.json
+/Users/greenboi/ComputerScience/CSharp/DemoApp/bin/Debug/net6.0/DemoApp.dll
+/Users/greenboi/ComputerScience/CSharp/DemoApp/bin/Debug/net6.0/DemoApp.pdb
+/Users/greenboi/ComputerScience/CSharp/DemoApp/obj/Debug/net6.0/DemoApp.csproj.AssemblyReference.cache
+/Users/greenboi/ComputerScience/CSharp/DemoApp/obj/Debug/net6.0/DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/greenboi/ComputerScience/CSharp/DemoApp/obj/Debug/net6.0/DemoApp.AssemblyInfoInputs.cache
+/Users/greenboi/ComputerScience/CSharp/DemoApp/obj/Debug/net6.0/DemoApp.AssemblyInfo.cs
+/Users/greenboi/ComputerScience/CSharp/DemoApp/obj/Debug/net6.0/DemoApp.csproj.CoreCompileInputs.cache
+/Users/greenboi/ComputerScience/CSharp/DemoApp/obj/Debug/net6.0/DemoApp.dll
+/Users/greenboi/ComputerScience/CSharp/DemoApp/obj/Debug/net6.0/refint/DemoApp.dll
+/Users/greenboi/ComputerScience/CSharp/DemoApp/obj/Debug/net6.0/DemoApp.pdb
+/Users/greenboi/ComputerScience/CSharp/DemoApp/obj/Debug/net6.0/DemoApp.genruntimeconfig.cache
+/Users/greenboi/ComputerScience/CSharp/DemoApp/obj/Debug/net6.0/ref/DemoApp.dll
